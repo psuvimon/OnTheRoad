@@ -1,0 +1,9 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/my-service/bin
+/my-service/obj
+/UnitTest/bin
+/UnitTest/obj
